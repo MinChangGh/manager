@@ -1,0 +1,10 @@
+removeTitle: true
+removeDoctype: true
+cleanupAttrs: true
+removeComments: true
+removeEmptyAttrs: true
+removeEmptyContainers: true
+convertPathData: true
+removeXMLProcInst: true
+removeUselessStrokeAndFill: true
+
